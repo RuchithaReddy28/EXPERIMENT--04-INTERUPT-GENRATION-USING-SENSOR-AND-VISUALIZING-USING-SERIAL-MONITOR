@@ -237,7 +237,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility:
 ![output](https://user-images.githubusercontent.com/119393933/280511211-d5a22be8-f26a-47fc-90a3-b44d7caa4a2a.png?raw=true)
-1[output](https://user-images.githubusercontent.com/119393933/280511228-7d51d82d-fe99-48d7-a32a-6839d9da98b8.png?raw=true)
+![output](https://user-images.githubusercontent.com/119393933/280511228-7d51d82d-fe99-48d7-a32a-6839d9da98b8.png?raw=true)
  
  
  ## Circuit board :
